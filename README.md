@@ -1,7 +1,7 @@
 ## Melon Chart TOP100 API
-This is an API in JSON format that parses the Melon TOP100 chart.
+API JSON Melon TOP100 chart.
 
-## JSON format
+## Response
 ```
 {
 "rank": 1,
