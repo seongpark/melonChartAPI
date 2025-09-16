@@ -10,3 +10,9 @@ API JSON Melon TOP100 chart.
 "image": "https://cdnimg.melon.co.kr/cm2/album/images/118/59/863/11859863_20250620104512_500.jpg/melon/resize/120/quality/80/optimize"
 }
 ```
+## Request URL
+* <a href='https://sinamon.dothome.co.kr/melon/top100'>Melon TOP100 Chart</a>
+* <a href='https://sinamon.dothome.co.kr/melon/top100'>Melon HOT100 Chart</a>
+
+## ETC
+If you want to parse weekly or daily chart data, the site structure is the same, so only the URL needs to be changed
